@@ -1,4 +1,4 @@
-## Hi there 👋
+I'm a librarian, instructor, and consultant who specializes in teaching introductory Python programming, version control, and data analysis. My research interests are in the digital humanities.
 
 <!--
 **wintere/wintere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
