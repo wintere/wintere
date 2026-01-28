@@ -6,6 +6,5 @@ I'm a librarian, instructor, and consultant who specializes in teaching introduc
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
 ![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![Jekyll](https://img.shields.io/badge/Jekyll-C00?logo=jekyll&logoColor=fff)
